@@ -1,0 +1,5 @@
+vless://4281f5c8-ea20-476a-a143-63bbebd9c993@qaz12345qwe.herokuapp.com:443?type=ws&security=tls&path=%2Fray&host=qaz12345qwe.herokuapp.com&sni=qaz12345qwe.herokuapp.com#1
+vless://833db126-f734-4ea1-975b-cf3fcd8e8b43@qaz12345qwe12.herokuapp.com:443?type=ws&security=tls&path=%2Fapp&host=qaz12345qwe12.herokuapp.com&sni=qaz12345qwe12.herokuapp.com#2
+vless://3f9e2b50-4648-4935-a54c-32b2ba3decfd@qaz12345qwe13.herokuapp.com:443?type=ws&security=tls&path=%2Fapp&host=qaz12345qwe13.herokuapp.com&sni=qaz12345qwe13.herokuapp.com#3
+vless://af20df41-89a6-4d30-865d-33a3cf5fa686@qaz12345qwe14.herokuapp.com:443?type=ws&security=tls&path=%2Fapp&host=qaz12345qwe14.herokuapp.com&sni=qaz12345qwe14.herokuapp.com#4
+vless://677fbe06-01e5-407e-a4cc-60e51f911853@qaz12345qwe15.herokuapp.com:443?type=ws&security=tls&path=%2Fapp&host=qaz12345qwe15.herokuapp.com&sni=qaz12345qwe15.herokuapp.com#5
